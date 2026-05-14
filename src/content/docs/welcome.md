@@ -11,15 +11,37 @@ It's organized into three parts.
 
 ## The Operating System
 
-How the business actually works. The funnel from website visit to retained partner. Unit economics. CAC and LTV. Market and ICP. Seasonality. Read this first — every channel and tactic in the playbook makes more sense once you have this frame.
+How the business actually works, and the strategic context underneath it. Read this first — every channel and tactic in the playbook makes more sense once you have the frame.
+
+- **The Business** — funnel from website to retained partner
+- **Unit Economics, CAC & LTV, Market & ICP** — the numbers
+- **Seasonality** — why the curve sometimes matters more than partner growth
+- **Current Metrics Snapshot** — what's actually measured today (and what isn't)
+- **Ben's Worldview** — how the CEO thinks; how to frame work in his terms
+- **Strategic Disagreements** — the unresolved questions you inherit
+- **What's Broken Today** — the known-broken list, in priority order
 
 ## The Playbook
 
-What we actually run and why. Who we sell to (SFR, GS, Title, D2C, API partners). Why they buy. The pitch. Objections and competition. Every channel as its own playbook — what works, what hasn't, where there's more room. Tools we use. How we measure.
+What we run and why. Every channel as its own playbook — what works, what hasn't, where there's more room.
+
+- **Who We Sell To** — five customer types in different stages of maturity
+- **Why They Buy** — the pain, the hook, the value props
+- **Marketing Strategy Framework** — the four pillars, and the gap between stated and actual priority
+- **Products & Integrations** — UP, UtilityWallet, OnSwitch, Vacancy
+- **D2C Motion / Title Motion / Marketing-Sales Handoff / Architect Workflow** — the new and the broken
+- **Channels** — Email, Direct Mail, Conferences, Paid Social (history), API Partner Outbound
+- **Tools** — the stack, the custom internal builds
+- **How We Measure** — MQL definitions, sources, source-of-truth hierarchy
 
 ## Operating
 
-Your workspace. The current quarterly plan. Reusable frameworks (CAC math, partner sizing, MQL→deal math, seasonality). A quarterly self-review template you can use at the end of each quarter.
+Your workspace.
+
+- **Quarterly Plan** — current targets, what's in flight, what's broken
+- **Frameworks** — CAC math, partner sizing, MQL→deal math, seasonality, channel grading
+- **Team & Org Map** — who does what, dynamics to know
+- **Reviews** — quarterly self-review template
 
 ## How to read it
 
@@ -27,4 +49,6 @@ You can scan the sidebar and jump anywhere. If you want a narrative arc, read to
 
 Numbers are left blank where we don't have current data we trust. Don't assume zero means zero. It means "go pull this from Metabase or HubSpot before you use it."
 
-Anything missing or wrong, tell me and I'll update it.
+The Current Metrics Snapshot has the most recent reads. When in doubt, that's the source.
+
+Anything missing or wrong, edit it. This is meant to evolve.

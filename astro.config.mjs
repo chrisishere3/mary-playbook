@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://sunrooporg.github.io',
+	site: 'https://chrisishere3.github.io',
 	base: '/mary-playbook',
 	integrations: [
 		starlight({
@@ -22,6 +22,10 @@ export default defineConfig({
 						{ label: 'CAC & LTV', slug: 'operating-system/cac-and-ltv' },
 						{ label: 'Market & ICP', slug: 'operating-system/market-and-icp' },
 						{ label: 'Seasonality', slug: 'operating-system/seasonality' },
+						{ label: 'Current Metrics Snapshot', slug: 'operating-system/current-metrics' },
+						{ label: "Ben's Worldview", slug: 'operating-system/bens-worldview' },
+						{ label: 'Strategic Disagreements', slug: 'operating-system/strategic-disagreements' },
+						{ label: "What's Broken Today", slug: 'operating-system/whats-broken' },
 					],
 				},
 				{
@@ -29,8 +33,14 @@ export default defineConfig({
 					items: [
 						{ label: 'Who We Sell To', slug: 'playbook/who-we-sell-to' },
 						{ label: 'Why They Buy', slug: 'playbook/why-they-buy' },
+						{ label: 'Marketing Strategy Framework', slug: 'playbook/marketing-strategy-framework' },
+						{ label: 'Products & Integrations', slug: 'playbook/products-and-integrations' },
 						{ label: 'The Pitch', slug: 'playbook/the-pitch' },
 						{ label: 'Objections & Competition', slug: 'playbook/objections-and-competition' },
+						{ label: 'D2C Motion', slug: 'playbook/d2c-motion' },
+						{ label: 'Title Motion', slug: 'playbook/title-motion' },
+						{ label: 'Marketing-Sales Handoff', slug: 'playbook/marketing-sales-handoff' },
+						{ label: 'Architect Workflow', slug: 'playbook/architect-workflow' },
 						{
 							label: 'Channels',
 							items: [
@@ -51,6 +61,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Quarterly Plan', slug: 'operating/quarterly-plan' },
 						{ label: 'Frameworks', slug: 'operating/frameworks' },
+						{ label: 'Team & Org Map', slug: 'operating/team-and-org' },
 						{ label: 'Reviews', slug: 'operating/reviews' },
 					],
 				},
