@@ -59,7 +59,6 @@ export default defineConfig({
 				{
 					label: 'Operating',
 					items: [
-						{ label: 'Quarterly Plan', slug: 'operating/quarterly-plan' },
 						{ label: 'Frameworks', slug: 'operating/frameworks' },
 						{ label: 'Team & Org Map', slug: 'operating/team-and-org' },
 						{ label: 'Reviews', slug: 'operating/reviews' },

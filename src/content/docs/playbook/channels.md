@@ -48,12 +48,10 @@ Each has its own page. Same structure: what it is, how it works, what's working,
 | [Direct Mail](/mary-playbook/playbook/channels/direct-mail/) | Production. Lob pipeline. | SFR, GS |
 | [Conferences](/mary-playbook/playbook/channels/conferences/) | Production. NARPM, Broker Owner, Rentvine, IREM. | SFR, GS |
 | [Paid Social (Meta)](/mary-playbook/playbook/channels/paid-social/) | **Canceled.** Historical reference. | — |
-| [API Partner Outbound](/mary-playbook/playbook/channels/api-partner-outbound/) | Active Q2 sprint. | API integration partners |
 
 ## Channels we don't run yet
 
 - **SEO / content.** Organic produces deals but attribution is messy. No content engine. ~5–7% of pipeline already attributed to organic — a real content motion likely lifts this materially.
-- **Influencer marketing (systematic).** Peter Lohmann is the existing relationship and drives a meaningful share of the partner/influencer 4–6%. No systematic program beyond him.
 - **PR.** Zero owned. The TenantCloud $1M+ ARR win is an obvious story we haven't told publicly.
 - **Webinars / virtual events.** Untested.
 - **Reseller / agency channel.** A few PM consultants exist who could resell. Untested.

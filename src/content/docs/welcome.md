@@ -38,7 +38,6 @@ What we run and why. Every channel as its own playbook — what works, what hasn
 
 Your workspace.
 
-- **Quarterly Plan** — current targets, what's in flight, what's broken
 - **Frameworks** — CAC math, partner sizing, MQL→deal math, seasonality, channel grading
 - **Team & Org Map** — who does what, dynamics to know
 - **Reviews** — quarterly self-review template

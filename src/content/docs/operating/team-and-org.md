@@ -10,7 +10,7 @@ The marketing-adjacent org as of May 2026. Roles, dynamics, and notes. Where thi
 Confirm with Ben before day one. Don't assume.
 
 - **Mark Lindquist** — Senior Marketing IC. SFR + D2C focus, plus moonshot work (vacancy AI caller, move-out tracker, utility lookup tool). Based in Austin. Heavy user of the [architect workflow](/mary-playbook/playbook/architect-workflow/). In-office 3x/week.
-- **Chris Berkley** — Senior Marketing IC. Garden-style multifamily focus + tag-teams SFR with Mark.
+- **Chris Berkley** — Senior Marketing IC. SFR + garden-style PM focus, with heavy marketing ops and go-to-market engineering work. Based in Austin. Runs a lot of GTM experiments — self-serve, Meta ads, outbound experiments, the MQL engine, attribution work.
 - **Gabby** — Conference execution and conference strategy support. Junior. Smart, hardworking, committed. Struggles to own outcomes to the point of actually improving performance. Needs active management.
 
 ## Sales
