@@ -1,86 +1,84 @@
 ---
 title: Home Base
 description: The marketing operating system and playbook for Utility Profit. Welcome, Mary.
+template: doc
+pagefind: true
+tableOfContents: false
 ---
 
-import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
-
-<div style="padding: 2rem; border-radius: 1rem; background: linear-gradient(135deg, rgba(106, 168, 79, 0.08), rgba(255, 255, 255, 0)); border: 1px solid rgba(106, 168, 79, 0.2); margin-bottom: 2.5rem;">
-  <div style="display: inline-block; padding: 0.35rem 0.85rem; border-radius: 999px; background: rgba(106, 168, 79, 0.15); color: #4a7a35; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 1rem;">UP Marketing Playbook</div>
-  <h1 style="font-size: 2.5rem; line-height: 1.1; margin: 0 0 0.75rem 0; font-weight: 700;">Your Edge in <span style="color: #6aa84f;">Every Decision.</span></h1>
-  <p style="font-size: 1.1rem; color: var(--sl-color-gray-2); margin: 0;">Everything you need to run marketing. All in one place.</p>
+<div class="up-hero">
+  <span class="up-hero-pill">UP MARKETING PLAYBOOK</span>
+  <h1 class="up-hero-title">Your Edge in <span class="up-accent">Every Decision.</span></h1>
+  <p class="up-hero-sub">Everything you need to run marketing. All in one place.</p>
 </div>
 
-## ⚡ Quick Access
+<h2 class="up-section-title">⚡ Quick Access</h2>
 
-<CardGrid stagger>
-  <LinkCard
-    title="The Business"
-    description="How the funnel works, end to end."
-    href="./operating-system/the-business/"
-  />
-  <LinkCard
-    title="Unit Economics"
-    description="Margins, partner sizing, revenue math."
-    href="./operating-system/unit-economics/"
-  />
-  <LinkCard
-    title="CAC & LTV"
-    description="Current ratio, room to spend, channel grading."
-    href="./operating-system/cac-and-ltv/"
-  />
-  <LinkCard
-    title="Who We Sell To"
-    description="SFR, GS, Title, D2C, API partners."
-    href="./playbook/who-we-sell-to/"
-  />
-  <LinkCard
-    title="Why They Buy"
-    description="The pain, the hook, the value props."
-    href="./playbook/why-they-buy/"
-  />
-  <LinkCard
-    title="Channels"
-    description="Email, Mail, Conferences, Partners."
-    href="./playbook/channels/"
-  />
-  <LinkCard
-    title="Objections & Competition"
-    description="Second Nature, CHS, AppFolio, and more."
-    href="./playbook/objections-and-competition/"
-  />
-  <LinkCard
-    title="How We Measure"
-    description="MQL definition, sources, source-of-truth."
-    href="./playbook/how-we-measure/"
-  />
-  <LinkCard
-    title="Frameworks"
-    description="The math you'll use constantly."
-    href="./operating/frameworks/"
-  />
-</CardGrid>
+<div class="up-card-grid">
+  <a href="./operating-system/the-business/" class="up-card up-card-blue">
+    <div class="up-card-icon">📊</div>
+    <h3>The Business</h3>
+    <p>How the funnel works, end to end.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./operating-system/unit-economics/" class="up-card up-card-orange">
+    <div class="up-card-icon">🎯</div>
+    <h3>Unit Economics</h3>
+    <p>Margins, partner sizing, revenue math.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./operating-system/cac-and-ltv/" class="up-card up-card-purple">
+    <div class="up-card-icon">⚔️</div>
+    <h3>CAC & LTV</h3>
+    <p>Current ratio, room to spend, channel grading.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./playbook/who-we-sell-to/" class="up-card up-card-green">
+    <div class="up-card-icon">🏆</div>
+    <h3>Who We Sell To</h3>
+    <p>SFR, GS, Title, D2C, API partners.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./playbook/why-they-buy/" class="up-card up-card-slate">
+    <div class="up-card-icon">📄</div>
+    <h3>Why They Buy</h3>
+    <p>The pain, the hook, the value props.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./playbook/channels/" class="up-card up-card-pink">
+    <div class="up-card-icon">▶</div>
+    <h3>Channels</h3>
+    <p>Email, Mail, Conferences, Partners.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./playbook/objections-and-competition/" class="up-card up-card-purple">
+    <div class="up-card-icon">⚔️</div>
+    <h3>Objections & Competition</h3>
+    <p>Second Nature, CHS, AppFolio, and more.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./playbook/how-we-measure/" class="up-card up-card-blue">
+    <div class="up-card-icon">📈</div>
+    <h3>How We Measure</h3>
+    <p>MQL definition, sources, source-of-truth.</p>
+    <span class="up-arrow">→</span>
+  </a>
+  <a href="./operating/frameworks/" class="up-card up-card-orange">
+    <div class="up-card-icon">🧮</div>
+    <h3>Frameworks</h3>
+    <p>The math you'll use constantly.</p>
+    <span class="up-arrow">→</span>
+  </a>
+</div>
 
-## 🔥 Quick Tips
+<h2 class="up-section-title">📚 Start Here</h2>
 
-<Card title="Discovery drives everything">
-If you rush it, you lose the deal. Marketing's version of this: if you skip the audience tagging logic, your dashboards lie.
-</Card>
+<p>New to the playbook? Read in this order:</p>
 
-<Card title="Activated doors, not MQLs">
-Every channel decision should ladder back to cost-per-activated-door. MQL count is a vanity metric. Doors pay the bills.
-</Card>
-
-<Card title="Pull live numbers, don't trust the doc">
-Numbers in this playbook are reference baselines. Always pull from Metabase or the Q2 MQLs sheet before quoting in a forecast.
-</Card>
-
-## 📚 Start Here
-
-New to the playbook? Read in this order:
-
-1. [Welcome, Mary](./welcome/) — context, 2 minutes
-2. [The Business](./operating-system/the-business/) — the funnel, 5 minutes
-3. [Unit Economics](./operating-system/unit-economics/) — the math, 5 minutes
-4. [CAC & LTV](./operating-system/cac-and-ltv/) — the headroom, 5 minutes
-5. Then jump anywhere. The sidebar is yours.
+<ol class="up-reading-order">
+  <li><a href="./welcome/">Welcome, Mary</a> — context, 2 minutes</li>
+  <li><a href="./operating-system/the-business/">The Business</a> — the funnel, 5 minutes</li>
+  <li><a href="./operating-system/unit-economics/">Unit Economics</a> — the math, 5 minutes</li>
+  <li><a href="./operating-system/cac-and-ltv/">CAC & LTV</a> — the headroom, 5 minutes</li>
+  <li>Then jump anywhere. The sidebar is yours.</li>
+</ol>

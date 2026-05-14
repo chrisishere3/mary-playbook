@@ -1,0 +1,212 @@
+/* UP brand tokens */
+:root {
+  --up-green: #6aa84f;
+  --up-green-dark: #4a7a35;
+  --up-green-bg: rgba(106, 168, 79, 0.08);
+  --up-green-border: rgba(106, 168, 79, 0.25);
+
+  /* Starlight overrides - use UP green as accent */
+  --sl-color-accent-low: #d9ead0;
+  --sl-color-accent: #6aa84f;
+  --sl-color-accent-high: #3d6b2a;
+  --sl-color-text-accent: #4a7a35;
+}
+
+/* Dark mode UP greens */
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #2d4a1f;
+  --sl-color-accent: #8cc66f;
+  --sl-color-accent-high: #c4e3b0;
+  --sl-color-text-accent: #8cc66f;
+}
+
+/* === Hide Starlight's default page header on the homepage only ===
+   Uses :has() to detect when our hero block is on the page. */
+main:has(.up-hero) .content-panel:first-of-type {
+  display: none;
+}
+
+/* === Hero block === */
+.up-hero {
+  padding: 2.5rem 2rem;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, var(--up-green-bg), rgba(255,255,255,0));
+  border: 1px solid var(--up-green-border);
+  margin-bottom: 2.5rem;
+}
+
+.up-hero-pill {
+  display: inline-block;
+  padding: 0.4rem 0.95rem;
+  border-radius: 999px;
+  background: rgba(106, 168, 79, 0.18);
+  color: var(--up-green-dark);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 1.25rem;
+}
+
+:root[data-theme='dark'] .up-hero-pill {
+  background: rgba(106, 168, 79, 0.25);
+  color: #c4e3b0;
+}
+
+.up-hero-title {
+  font-size: 3rem;
+  line-height: 1.05;
+  margin: 0 0 0.85rem 0 !important;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  border: none !important;
+}
+
+.up-accent {
+  color: var(--up-green);
+}
+
+.up-hero-sub {
+  font-size: 1.15rem;
+  color: var(--sl-color-gray-2);
+  margin: 0;
+}
+
+/* === Section titles === */
+.up-section-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1.25rem !important;
+  border: none !important;
+}
+
+/* === Quick Access card grid === */
+.up-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.up-card {
+  position: relative;
+  display: block;
+  padding: 1.5rem;
+  border-radius: 0.875rem;
+  border: 1px solid var(--sl-color-gray-5);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  min-height: 145px;
+}
+
+.up-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  border-color: var(--up-green);
+}
+
+.up-card-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.up-card h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem 0 !important;
+  border: none !important;
+  color: var(--sl-color-white);
+}
+
+.up-card p {
+  font-size: 0.875rem;
+  color: var(--sl-color-gray-2);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.up-arrow {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  font-size: 1.1rem;
+  color: var(--sl-color-gray-3);
+  transition: transform 0.15s ease, color 0.15s ease;
+}
+
+.up-card:hover .up-arrow {
+  transform: translateX(3px);
+  color: var(--up-green);
+}
+
+/* === Card color variants (light mode) === */
+.up-card-blue { background: linear-gradient(135deg, #e8f0fb, #f5f9ff); border-color: #c6dcf5; }
+.up-card-orange { background: linear-gradient(135deg, #fcecd2, #fef7e8); border-color: #f3d7a0; }
+.up-card-purple { background: linear-gradient(135deg, #efe3f7, #f8f1fc); border-color: #d9c0eb; }
+.up-card-green { background: linear-gradient(135deg, #dcecd2, #eef6e8); border-color: #b8d8a3; }
+.up-card-slate { background: linear-gradient(135deg, #e2e8f0, #f1f5f9); border-color: #c0cdde; }
+.up-card-pink { background: linear-gradient(135deg, #fbe1e1, #fdf0f0); border-color: #f1bdbd; }
+
+.up-card-blue h3, .up-card-orange h3, .up-card-purple h3,
+.up-card-green h3, .up-card-slate h3, .up-card-pink h3 {
+  color: #1a1a1a;
+}
+
+.up-card-blue p, .up-card-orange p, .up-card-purple p,
+.up-card-green p, .up-card-slate p, .up-card-pink p {
+  color: #475569;
+}
+
+/* Dark mode pastel cards = darker tinted backgrounds */
+:root[data-theme='dark'] .up-card-blue { background: linear-gradient(135deg, rgba(59,130,246,0.12), rgba(59,130,246,0.04)); border-color: rgba(59,130,246,0.25); }
+:root[data-theme='dark'] .up-card-orange { background: linear-gradient(135deg, rgba(245,158,11,0.12), rgba(245,158,11,0.04)); border-color: rgba(245,158,11,0.25); }
+:root[data-theme='dark'] .up-card-purple { background: linear-gradient(135deg, rgba(168,85,247,0.12), rgba(168,85,247,0.04)); border-color: rgba(168,85,247,0.25); }
+:root[data-theme='dark'] .up-card-green { background: linear-gradient(135deg, rgba(106,168,79,0.15), rgba(106,168,79,0.04)); border-color: rgba(106,168,79,0.3); }
+:root[data-theme='dark'] .up-card-slate { background: linear-gradient(135deg, rgba(148,163,184,0.12), rgba(148,163,184,0.04)); border-color: rgba(148,163,184,0.25); }
+:root[data-theme='dark'] .up-card-pink { background: linear-gradient(135deg, rgba(244,114,182,0.12), rgba(244,114,182,0.04)); border-color: rgba(244,114,182,0.25); }
+
+:root[data-theme='dark'] .up-card-blue h3,
+:root[data-theme='dark'] .up-card-orange h3,
+:root[data-theme='dark'] .up-card-purple h3,
+:root[data-theme='dark'] .up-card-green h3,
+:root[data-theme='dark'] .up-card-slate h3,
+:root[data-theme='dark'] .up-card-pink h3 {
+  color: var(--sl-color-white);
+}
+
+:root[data-theme='dark'] .up-card-blue p,
+:root[data-theme='dark'] .up-card-orange p,
+:root[data-theme='dark'] .up-card-purple p,
+:root[data-theme='dark'] .up-card-green p,
+:root[data-theme='dark'] .up-card-slate p,
+:root[data-theme='dark'] .up-card-pink p {
+  color: var(--sl-color-gray-3);
+}
+
+/* === Reading order list === */
+.up-reading-order {
+  background: var(--sl-color-gray-6);
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem 1.25rem 2.5rem;
+  margin-top: 0.75rem;
+}
+
+.up-reading-order li {
+  margin: 0.4rem 0;
+  line-height: 1.5;
+}
+
+/* === Hero responsive === */
+@media (max-width: 50rem) {
+  .up-hero {
+    padding: 1.75rem 1.25rem;
+  }
+  .up-hero-title {
+    font-size: 2rem;
+  }
+  .up-hero-sub {
+    font-size: 1rem;
+  }
+}

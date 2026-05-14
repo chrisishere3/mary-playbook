@@ -10,6 +10,7 @@ export default defineConfig({
 		starlight({
 			title: 'UP Marketing Playbook',
 			description: 'Marketing operating system and playbook for Utility Profit. Built for Mary.',
+			customCss: ['./src/styles/custom.css'],
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
 			sidebar: [
 				{ label: 'Welcome', slug: 'welcome' },
