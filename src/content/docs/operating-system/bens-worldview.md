@@ -37,14 +37,14 @@ The senior marketing ICs operate on a different plane than Ben. They have candid
 
 The VP's meta-job is translation. The corner work is the same work; the bridge to executive priorities is what having a VP at the table actually unlocks. **Every marketing initiative needs a CEO-level framing to survive contact with Ben.**
 
-## The disagreement on the slope of returns
+## Differing views on the slope of returns
 
-Ben and the marketing team agree that SFR/GS marketing matters. They disagree on the **slope of returns** from marketing investment.
+Ben and the marketing team agree that SFR/GS marketing matters. The working views on the **slope of returns** from marketing investment differ.
 
-- **Ben's model:** better marketing execution → quarter-over-quarter acceleration.
-- **Marketing's model:** returns on existing channels are flattening; product differentiation (specifically a vacancy / move-out feature set) is required for the next leg of growth.
+- **Ben's read:** better marketing execution → quarter-over-quarter acceleration.
+- **Marketing's read:** returns on existing channels are flattening; product differentiation (specifically a vacancy / move-out feature set) is required for the next leg of growth.
 
-Neither view is currently grounded in measurement. Channel returns appear to be diminishing qualitatively, but it's not measured. **The disagreement is testable.** See [Strategic Disagreements](/mary-playbook/operating-system/strategic-disagreements/).
+Neither view is currently grounded in measurement. Channel returns appear to be diminishing qualitatively, but it's not measured. **This is testable.** See [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/).
 
 ## The discipline gap
 

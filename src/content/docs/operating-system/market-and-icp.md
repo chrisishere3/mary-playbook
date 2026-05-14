@@ -3,7 +3,7 @@ title: Market & ICP
 description: How big the market is, who we sell to, the segments inside SFR, and the long-tail question that materially changes the job.
 ---
 
-The market is third-party property managers. The ideal partner is a mom-and-pop SFR PM in the Sunbelt managing somewhere between 100 and 850 doors. Below 100 doors is currently outside the active motion. **Whether that's strategically correct is one of the open questions** — see [Strategic Disagreements](/mary-playbook/operating-system/strategic-disagreements/).
+The market is third-party property managers. The ideal partner is a mom-and-pop SFR PM in the Sunbelt managing somewhere between 100 and 850 doors. Below 100 doors is currently outside the active motion. **Whether that's strategically correct is one of the open questions** — see [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/).
 
 ## Market size
 
@@ -123,4 +123,4 @@ HubSpot has been overhauled recently with ~28K company records and ~16K SFR cont
 - 1/3 third-party managed
 - 2/3 DIY landlords
 - ~4x more homes are owner-occupied, but they move less often and need HOA-level relationships to influence
-- ~7.8% current SFR market share; 25% is the goal (denominator question is open — see [Strategic Disagreements](/mary-playbook/operating-system/strategic-disagreements/))
+- ~7.8% current SFR market share; 25% is the goal (denominator question is open — see [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/))

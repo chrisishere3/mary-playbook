@@ -53,7 +53,7 @@ Sample size is too small to extrapolate. Treat these as directional signal, not 
 
 - **SFR market share today:** ~7.8%
 - **Stated goal:** 25%
-- **Denominator:** unclear. See [Strategic Disagreements](/mary-playbook/operating-system/strategic-disagreements/) for the open question.
+- **Denominator:** unclear. See [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/) for the open question.
 
 ## What we don't measure (and should)
 
@@ -72,7 +72,7 @@ The team openly acknowledges this gap. There is currently no:
 ## Why this matters
 
 - Both Ben and Matt (head of finance) have explicitly asked for measurement discipline from the VP role.
-- The [slope-of-returns disagreement](/mary-playbook/operating-system/strategic-disagreements/) is empirically testable. The data exists; the analysis doesn't.
+- The [slope-of-returns question](/mary-playbook/operating-system/strategic-disagreements/) is empirically testable. The data exists; the analysis doesn't.
 - Marketing advocacy with Ben becomes substantially more effective with numbers attached.
 - Decisions about resource allocation across the [four marketing pillars](/mary-playbook/playbook/marketing-strategy-framework/) require this baseline.
 

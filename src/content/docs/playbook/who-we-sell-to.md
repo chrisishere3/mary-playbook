@@ -7,7 +7,7 @@ We currently sell to five customer types. Two are production, three are experime
 
 ## SFR Property Managers
 
-Single-family rental property managers. Proven segment. **7.8% market share, target 25%** (denominator question open — see [Strategic Disagreements](/mary-playbook/operating-system/strategic-disagreements/)).
+Single-family rental property managers. Proven segment. **7.8% market share, target 25%** (denominator question open — see [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/)).
 
 - **Software they use:** AppFolio, Buildium, Rentvine, Propertyware, RentManager, TenantTurner, TenantCloud
 - **Sweet spot:** 100–850 doors, average ~400

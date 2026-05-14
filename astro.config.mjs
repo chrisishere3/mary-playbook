@@ -24,7 +24,7 @@ export default defineConfig({
 						{ label: 'Seasonality', slug: 'operating-system/seasonality' },
 						{ label: 'Current Metrics Snapshot', slug: 'operating-system/current-metrics' },
 						{ label: "Ben's Worldview", slug: 'operating-system/bens-worldview' },
-						{ label: 'Strategic Disagreements', slug: 'operating-system/strategic-disagreements' },
+						{ label: 'Open Questions & Big Decisions', slug: 'operating-system/strategic-disagreements' },
 						{ label: "What's Broken Today", slug: 'operating-system/whats-broken' },
 					],
 				},
