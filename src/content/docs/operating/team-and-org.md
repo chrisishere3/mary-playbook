@@ -5,9 +5,7 @@ description: The marketing-adjacent org as of May 2026. Roles, dynamics, who to 
 
 The marketing-adjacent org as of May 2026. Roles, dynamics, and notes. Where this conflicts with anything else, this is the more recent source.
 
-## Likely direct reports
-
-Confirm with Ben before day one. Don't assume.
+## Direct reports
 
 - **Mark Lindquist** — Senior Marketing IC. SFR + D2C focus. Works on vacancy AI caller, move-out tracker, and the utility lookup tool. Based in Austin. Heavy user of the [architect workflow](/mary-playbook/playbook/architect-workflow/).
 - **Chris Berkley** — Senior Marketing IC. SFR + garden-style PM focus, with heavy marketing ops and go-to-market engineering work. Based in Austin. Runs a lot of GTM experiments — self-serve, Meta ads, outbound experiments, the MQL engine, attribution work.
@@ -22,13 +20,10 @@ Confirm with Ben before day one. Don't assume.
 
 ## Account Management and Customer Operations
 
-- **Cassie** — Account manager. Conduit to UP's customers. Surfaces customer issues directly when product breaks promises.
-- **Sarah** — Title onboarding lead. Manages the activation process for title company partners. Currently shepherding Marshall County Abstract, Capital Broadview, Clothesline, Allied, and several pending accounts. Coordinates placard shipments, technical setup (Qualia BCC routing, QR codes, URL redirects), and onboarding calls. The main human in the loop for any title-motion progress.
+- **Cassie** — Account manager. Conduit to UP's customers. Surfaces customer issues directly when product breaks promises. Currently managed by Chris.
 
 Open items to clarify:
 
-- Who manages Cassie today
-- Who manages Sarah today
 - Whether the AM function is the long-term answer for retention and expansion, or whether augmentation/upgrade is needed
 - Whether customer marketing sits with marketing, with Cassie, or shared
 
