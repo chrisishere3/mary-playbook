@@ -23,7 +23,6 @@ export default defineConfig({
 						{ label: 'Market & ICP', slug: 'operating-system/market-and-icp' },
 						{ label: 'Seasonality', slug: 'operating-system/seasonality' },
 						{ label: 'Current Metrics Snapshot', slug: 'operating-system/current-metrics' },
-						{ label: "Ben's Worldview", slug: 'operating-system/bens-worldview' },
 						{ label: 'Open Questions & Big Decisions', slug: 'operating-system/strategic-disagreements' },
 						{ label: "What's Broken Today", slug: 'operating-system/whats-broken' },
 					],

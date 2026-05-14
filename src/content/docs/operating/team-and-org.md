@@ -46,7 +46,7 @@ Working with Darius on fundraising data room materials.
 
 ## Executive
 
-- **Ben** — CEO and founder. Currently focused on fundraising. See [Ben's Worldview](/mary-playbook/operating-system/bens-worldview/).
+- **Ben** — CEO and founder. Currently focused on fundraising.
 - **Stephanie** — Fractional COO. One day a week currently. Off during the summer; returns in the fall. Plans to help hire a full-time COO after the raise. Not interested in full-time roles herself.
 
 ## Guadalajara office

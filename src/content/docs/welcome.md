@@ -17,7 +17,6 @@ How the business actually works, and the strategic context underneath it. Read t
 - **Unit Economics, CAC & LTV, Market & ICP** — the numbers
 - **Seasonality** — why the curve sometimes matters more than partner growth
 - **Current Metrics Snapshot** — what's actually measured today (and what isn't)
-- **Ben's Worldview** — how the CEO thinks; how to frame work in his terms
 - **Open Questions & Big Decisions** — what's still unresolved and how the team is working through it
 - **What's Broken Today** — the known-broken list, in priority order
 
