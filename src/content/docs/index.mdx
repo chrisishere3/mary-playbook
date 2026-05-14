@@ -1,29 +1,86 @@
 ---
-title: UP Marketing Playbook
+title: Home Base
 description: The marketing operating system and playbook for Utility Profit. Welcome, Mary.
-template: splash
-hero:
-  title: UP Marketing Playbook
-  tagline: The operating system and the playbooks. Everything we've built, all in one place.
-  actions:
-    - text: Start here
-      link: /welcome/
-      icon: right-arrow
-    - text: Jump to the business
-      link: /operating-system/the-business/
-      variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-<CardGrid>
-  <Card title="The Operating System" icon="setting">
-    How the business actually works. Funnel, unit economics, CAC and LTV, market sizing, seasonality.
-  </Card>
-  <Card title="The Playbook" icon="document">
-    What we run and why. Audiences, value props, the pitch, objections, every channel.
-  </Card>
-  <Card title="Operating" icon="rocket">
-    The quarterly plan, reusable frameworks, and the quarterly review template.
-  </Card>
+<div style="padding: 2rem; border-radius: 1rem; background: linear-gradient(135deg, rgba(106, 168, 79, 0.08), rgba(255, 255, 255, 0)); border: 1px solid rgba(106, 168, 79, 0.2); margin-bottom: 2.5rem;">
+  <div style="display: inline-block; padding: 0.35rem 0.85rem; border-radius: 999px; background: rgba(106, 168, 79, 0.15); color: #4a7a35; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 1rem;">UP Marketing Playbook</div>
+  <h1 style="font-size: 2.5rem; line-height: 1.1; margin: 0 0 0.75rem 0; font-weight: 700;">Your Edge in <span style="color: #6aa84f;">Every Decision.</span></h1>
+  <p style="font-size: 1.1rem; color: var(--sl-color-gray-2); margin: 0;">Everything you need to run marketing. All in one place.</p>
+</div>
+
+## ⚡ Quick Access
+
+<CardGrid stagger>
+  <LinkCard
+    title="The Business"
+    description="How the funnel works, end to end."
+    href="./operating-system/the-business/"
+  />
+  <LinkCard
+    title="Unit Economics"
+    description="Margins, partner sizing, revenue math."
+    href="./operating-system/unit-economics/"
+  />
+  <LinkCard
+    title="CAC & LTV"
+    description="Current ratio, room to spend, channel grading."
+    href="./operating-system/cac-and-ltv/"
+  />
+  <LinkCard
+    title="Who We Sell To"
+    description="SFR, GS, Title, D2C, API partners."
+    href="./playbook/who-we-sell-to/"
+  />
+  <LinkCard
+    title="Why They Buy"
+    description="The pain, the hook, the value props."
+    href="./playbook/why-they-buy/"
+  />
+  <LinkCard
+    title="Channels"
+    description="Email, Mail, Conferences, Partners."
+    href="./playbook/channels/"
+  />
+  <LinkCard
+    title="Objections & Competition"
+    description="Second Nature, CHS, AppFolio, and more."
+    href="./playbook/objections-and-competition/"
+  />
+  <LinkCard
+    title="How We Measure"
+    description="MQL definition, sources, source-of-truth."
+    href="./playbook/how-we-measure/"
+  />
+  <LinkCard
+    title="Frameworks"
+    description="The math you'll use constantly."
+    href="./operating/frameworks/"
+  />
 </CardGrid>
+
+## 🔥 Quick Tips
+
+<Card title="Discovery drives everything">
+If you rush it, you lose the deal. Marketing's version of this: if you skip the audience tagging logic, your dashboards lie.
+</Card>
+
+<Card title="Activated doors, not MQLs">
+Every channel decision should ladder back to cost-per-activated-door. MQL count is a vanity metric. Doors pay the bills.
+</Card>
+
+<Card title="Pull live numbers, don't trust the doc">
+Numbers in this playbook are reference baselines. Always pull from Metabase or the Q2 MQLs sheet before quoting in a forecast.
+</Card>
+
+## 📚 Start Here
+
+New to the playbook? Read in this order:
+
+1. [Welcome, Mary](./welcome/) — context, 2 minutes
+2. [The Business](./operating-system/the-business/) — the funnel, 5 minutes
+3. [Unit Economics](./operating-system/unit-economics/) — the math, 5 minutes
+4. [CAC & LTV](./operating-system/cac-and-ltv/) — the headroom, 5 minutes
+5. Then jump anywhere. The sidebar is yours.
