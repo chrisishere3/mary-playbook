@@ -80,5 +80,3 @@ All of the above could reasonably fall under marketing — or, more accurately, 
 ## What you can freely change
 
 Anything. The team norm is to push back constructively, not defer. Expect engagement, not flattery.
-
-The autonomy the current marketing team has is not protected. Disciplining reporting and focus is welcomed.

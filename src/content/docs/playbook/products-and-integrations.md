@@ -42,7 +42,7 @@ Strategic notes:
 - A Bland.ai-powered AI caller prototype handles the phone calls that vacancy transfers require. Promising but parked as a side project. Likely becomes a core engineering effort post-raise.
 - "Free vacancy enabled by AI phone calling" is a real but time-limited arbitrage. Competitors will catch up.
 
-See [Open Questions & Big Decisions](/mary-playbook/operating-system/strategic-disagreements/) for the unresolved vacancy product thesis.
+See [Open Questions & Big Decisions](/mary-playbook/operating-system/open-questions/) for the unresolved vacancy product thesis.
 
 ## UtilityWallet (consumer experience)
 

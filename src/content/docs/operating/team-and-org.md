@@ -82,7 +82,6 @@ Working with Darius on fundraising data room materials.
 - **Marketing and sales** currently hand off leads informally via a Slack channel that round-robins to BDRs. This is V1 and has not been iterated. See [Marketing-Sales Handoff](/mary-playbook/playbook/marketing-sales-handoff/).
 - **Marketing and product** have no formal interface. Marketing-driven feature asks (like vacancy) get raised in conversation with Ben and Darius; outcomes depend on whether they fit the existing roadmap.
 - **Marketing and AM (Cassie)** have a working but reactive relationship today. There's room for proactive collaboration on customer experience.
-- **The autonomy the senior ICs have** is not protected. Disciplining reporting and focus is welcomed.
 
 ## Confidential
 
