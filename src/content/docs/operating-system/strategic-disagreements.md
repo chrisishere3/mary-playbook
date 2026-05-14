@@ -53,6 +53,23 @@ UP doesn't have a working acquisition motion for sub-50-door PMs today. A self-s
 
 Whether that's a real opportunity or a distraction from higher-priority items is an open question. Chris has already built a self-serve flow as an experiment — worth pulling forward as a starting point if this gets taken on.
 
+## API integrations with PM software
+
+One strategic decision point is around integrations. We've consistently seen higher close rates and stronger customer adoption when we have a direct integration with a property management software platform.
+
+Right now, one of the biggest gaps is that we do not yet have a direct integration with some of the major softwares like **Rent Manager**, which has meaningful presence across both single-family and multifamily operators. More importantly, we also lack integrations with several of the major enterprise multifamily platforms — **Yardi, MRI Software, and RealPage**.
+
+In Q1 2026, we made a significant push into the true multifamily segment. One of the biggest learnings was that our close rates in multifamily did not mirror the success we historically saw in single-family. A major contributing factor was that multifamily operators strongly prefer vendors that already integrate with their existing software stack. In many cases, integrations are viewed less as a "nice to have" and more as a baseline requirement to even be considered.
+
+There is a strong argument that one of the highest-leverage investments we could make would be prioritizing and funding these integrations. It would:
+
+- Check an important procurement box
+- Reduce friction in the sales process
+- Improve credibility with larger operators
+- Materially increase our ability to win multifamily business
+
+This question sits alongside the vacancy product opportunity above. Both are real product investments competing for finite capacity. The right answer may be sequencing rather than picking one.
+
 ## Marketing's role in product strategy
 
 Some of the most interesting work — the AI vacancy caller, the move-out tracker, the utility lookup tool — is functionally product work that originated in marketing. As that pattern grows, a few questions are worth answering deliberately:
