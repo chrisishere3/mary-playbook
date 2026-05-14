@@ -9,9 +9,9 @@ The marketing-adjacent org as of May 2026. Roles, dynamics, and notes. Where thi
 
 Confirm with Ben before day one. Don't assume.
 
-- **Mark Lindquist** — Senior Marketing IC. SFR + D2C focus, plus moonshot work (vacancy AI caller, move-out tracker, utility lookup tool). Based in Austin. Heavy user of the [architect workflow](/mary-playbook/playbook/architect-workflow/). In-office 3x/week.
+- **Mark Lindquist** — Senior Marketing IC. SFR + D2C focus. Works on vacancy AI caller, move-out tracker, and the utility lookup tool. Based in Austin. Heavy user of the [architect workflow](/mary-playbook/playbook/architect-workflow/).
 - **Chris Berkley** — Senior Marketing IC. SFR + garden-style PM focus, with heavy marketing ops and go-to-market engineering work. Based in Austin. Runs a lot of GTM experiments — self-serve, Meta ads, outbound experiments, the MQL engine, attribution work.
-- **Gabby** — Conference execution and conference strategy support. Junior. Smart, hardworking, committed. Struggles to own outcomes to the point of actually improving performance. Needs active management.
+- **Gabby** — Conference execution and conference strategy support.
 
 ## Sales
 
@@ -22,7 +22,7 @@ Confirm with Ben before day one. Don't assume.
 
 ## Account Management and Customer Operations
 
-- **Cassie** — Account manager. Conduit to UP's customers. Smart and clever, but not a startup person. Risk-averse. Experiences customer frustration directly when product breaks promises, which creates productive tension with the team.
+- **Cassie** — Account manager. Conduit to UP's customers. Surfaces customer issues directly when product breaks promises.
 - **Sarah** — Title onboarding lead. Manages the activation process for title company partners. Currently shepherding Marshall County Abstract, Capital Broadview, Clothesline, Allied, and several pending accounts. Coordinates placard shipments, technical setup (Qualia BCC routing, QR codes, URL redirects), and onboarding calls. The main human in the loop for any title-motion progress.
 
 Open items to clarify:
@@ -86,7 +86,7 @@ Working with Darius on fundraising data room materials.
 - **The senior marketing ICs** have de facto weekly autonomy on prioritization. There is no formal stack-rank between them. They discuss with the team and decide.
 - **Marketing and sales** currently hand off leads informally via a Slack channel that round-robins to BDRs. This is V1 and has not been iterated. See [Marketing-Sales Handoff](/mary-playbook/playbook/marketing-sales-handoff/).
 - **Marketing and product** have no formal interface. Marketing-driven feature asks (like vacancy) get raised in conversation with Ben and Darius; outcomes depend on whether they fit the existing roadmap.
-- **Marketing and AM (Cassie)** have a productive but reactive relationship — Cassie surfaces problems when they hit her, rather than collaborating proactively on customer experience.
+- **Marketing and AM (Cassie)** have a working but reactive relationship today. There's room for proactive collaboration on customer experience.
 - **The autonomy the senior ICs have** is not protected. Disciplining reporting and focus is welcomed.
 
 ## Confidential

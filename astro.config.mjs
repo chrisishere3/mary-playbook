@@ -61,7 +61,6 @@ export default defineConfig({
 					items: [
 						{ label: 'Frameworks', slug: 'operating/frameworks' },
 						{ label: 'Team & Org Map', slug: 'operating/team-and-org' },
-						{ label: 'Reviews', slug: 'operating/reviews' },
 					],
 				},
 			],

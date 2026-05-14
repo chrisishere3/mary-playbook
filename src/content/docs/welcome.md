@@ -40,7 +40,6 @@ Your workspace.
 
 - **Frameworks** — CAC math, partner sizing, MQL→deal math, seasonality, channel grading
 - **Team & Org Map** — who does what, dynamics to know
-- **Reviews** — quarterly self-review template
 
 ## How to read it
 
